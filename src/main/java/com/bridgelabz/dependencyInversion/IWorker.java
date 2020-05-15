@@ -1,5 +1,5 @@
 package com.bridgelabz.dependencyInversion;
 
-interface IWorker {
+public interface IWorker {
     public void work();
 }
